@@ -1,0 +1,394 @@
+[
+  {
+    "model": "api.genre",
+    "pk": 1,
+    "fields": {
+      "name": "African",
+      "url": "https://music.apple.com/us/genre/music-african/id1203"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 2,
+    "fields": {
+      "name": "Alternative",
+      "url": "https://music.apple.com/us/genre/music-alternative/id20"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 3,
+    "fields": {
+      "name": "Anime",
+      "url": "https://music.apple.com/us/genre/music-anime/id29"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 4,
+    "fields": {
+      "name": "Arabic",
+      "url": "https://music.apple.com/us/genre/music-arabic/id1197"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 5,
+    "fields": {
+      "name": "Blues",
+      "url": "https://music.apple.com/us/genre/music-blues/id2"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 6,
+    "fields": {
+      "name": "Brazilian",
+      "url": "https://music.apple.com/us/genre/music-brazilian/id1122"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 7,
+    "fields": {
+      "name": "Childre's Music",
+      "url": "https://music.apple.com/us/genre/music-childrens-music/id4"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 8,
+    "fields": {
+      "name": "Chinese",
+      "url": "https://music.apple.com/us/genre/music-chinese/id1232"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 9,
+    "fields": {
+      "name": "Christian",
+      "url": "https://music.apple.com/us/genre/music-christian/id22"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 10,
+    "fields": {
+      "name": "Classical",
+      "url": "https://music.apple.com/us/genre/music-classical/id5"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 11,
+    "fields": {
+      "name": "Comedy",
+      "url": "https://music.apple.com/us/genre/music-comedy/id3"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 12,
+    "fields": {
+      "name": "Country",
+      "url": "https://music.apple.com/us/genre/music-country/id6"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 13,
+    "fields": {
+      "name": "Cuban",
+      "url": "https://music.apple.com/us/genre/music-cuban/id100024"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 14,
+    "fields": {
+      "name": "Dance",
+      "url": "https://music.apple.com/us/genre/music-dance/id17"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 15,
+    "fields": {
+      "name": "Disney",
+      "url": "https://music.apple.com/us/genre/music-disney/id50000063"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 16,
+    "fields": {
+      "name": "Easy Listening",
+      "url": "https://music.apple.com/us/genre/music-easy-listening/id25"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 17,
+    "fields": {
+      "name": "Electronic",
+      "url": "https://music.apple.com/us/genre/music-electronic/id7"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 18,
+    "fields": {
+      "name": "Enka",
+      "url": "https://music.apple.com/us/genre/music-enka/id28"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 19,
+    "fields": {
+      "name": "Fitness & Workout",
+      "url": "https://music.apple.com/us/genre/music-fitness-workout/id50"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 20,
+    "fields": {
+      "name": "Folk",
+      "url": "https://music.apple.com/us/genre/music-folk/id1289"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 21,
+    "fields": {
+      "name": "French Pop",
+      "url": "https://music.apple.com/us/genre/music-french-pop/id50000064"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 22,
+    "fields": {
+      "name": "German Folk",
+      "url": "https://music.apple.com/us/genre/music-german-folk/id50000068"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 23,
+    "fields": {
+      "name": "German Pop",
+      "url": "https://music.apple.com/us/genre/music-german-pop/id50000066"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 24,
+    "fields": {
+      "name": "Hip-Hop/Rap",
+      "url": "https://itunes.apple.com/us/genre/id18"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 25,
+    "fields": {
+      "name": "Holiday",
+      "url": "https://music.apple.com/us/genre/music-holiday/id8"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 26,
+    "fields": {
+      "name": "Christian & Gospel",
+      "url": "https://music.apple.com/us/genre/music-christian-gospel/id100000"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 27,
+    "fields": {
+      "name": "Music",
+      "url": "https://itunes.apple.com/us/genre/id34"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 28,
+    "fields": {
+      "name": "Instrumental",
+      "url": "https://music.apple.com/us/genre/music-instrumental/id53"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 29,
+    "fields": {
+      "name": "J-Pop",
+      "url": "https://music.apple.com/us/genre/music-j-pop/id27"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 30,
+    "fields": {
+      "name": "Jazz",
+      "url": "https://music.apple.com/us/genre/music-jazz/id11"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 31,
+    "fields": {
+      "name": "Karaoke",
+      "url": "https://music.apple.com/us/genre/music-karaoke/id52"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 32,
+    "fields": {
+      "name": "Kayokyoku",
+      "url": "https://music.apple.com/us/genre/music-kayokyoku/id30"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 33,
+    "fields": {
+      "name": "Korean",
+      "url": "https://music.apple.com/us/genre/music-korean/id1243"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 34,
+    "fields": {
+      "name": "Latin",
+      "url": "https://music.apple.com/us/genre/music-latin/id12"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 35,
+    "fields": {
+      "name": "Marching",
+      "url": "https://music.apple.com/us/genre/music-marching/id1291"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 36,
+    "fields": {
+      "name": "New Age",
+      "url": "https://music.apple.com/us/genre/music-new-age/id13"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 37,
+    "fields": {
+      "name": "Orchestral",
+      "url": "https://music.apple.com/us/genre/music-orchestral/id1290"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 38,
+    "fields": {
+      "name": "Pop",
+      "url": "https://music.apple.com/us/genre/music-pop/id14"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 39,
+    "fields": {
+      "name": "R&B/Soul",
+      "url": "https://music.apple.com/us/genre/music-r-b-soul/id15"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 40,
+    "fields": {
+      "name": "Reggae",
+      "url": "https://music.apple.com/us/genre/music-reggae/id24"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 41,
+    "fields": {
+      "name": "Rock",
+      "url": "https://music.apple.com/us/genre/music-rock/id21"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 42,
+    "fields": {
+      "name": "Russian",
+      "url": "https://music.apple.com/us/genre/music-russian/id1299"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 43,
+    "fields": {
+      "name": "Singer/Songwriter",
+      "url": "https://music.apple.com/us/genre/music-singer-songwriter/id10"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 44,
+    "fields": {
+      "name": "Soundtrack",
+      "url": "https://music.apple.com/us/genre/music-soundtrack/id16"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 45,
+    "fields": {
+      "name": "Spoken Word",
+      "url": "https://music.apple.com/us/genre/music-spoken-word/id50000061"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 46,
+    "fields": {
+      "name": "Tarab",
+      "url": "https://music.apple.com/us/genre/music-tarab/id100084"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 47,
+    "fields": {
+      "name": "Turkish",
+      "url": "https://music.apple.com/us/genre/music-turkish/id1300"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 48,
+    "fields": {
+      "name": "Vocal",
+      "url": "https://music.apple.com/us/genre/music-vocal/id23"
+    }
+  },
+  {
+    "model": "api.genre",
+    "pk": 49,
+    "fields": {
+      "name": "Worldwide",
+      "url": "https://music.apple.com/us/genre/music-worldwide/id19"
+    }
+  }
+]

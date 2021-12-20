@@ -1,0 +1,1702 @@
+[
+  {
+    "model": "api.track",
+    "pk": 1,
+    "fields": {
+      "artistName": "Kodak Black",
+      "name": "Super Gremlin",
+      "releaseDate": "2021-10-30",
+      "kind": "songs",
+      "artistId": 953921140,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/6b/3b/fc/6b3bfc34-cdce-b3ef-db0f-caa4b760dd0b/075679764195.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 81,
+      "url": "https://music.apple.com/us/album/super-gremlin/1592774394?i=1592774398"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 2,
+    "fields": {
+      "artistName": "Lil Durk",
+      "name": "Broadway Girls (feat. Morgan Wallen)",
+      "releaseDate": "2021-12-19",
+      "kind": "songs",
+      "artistId": 541282483,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music116/v4/6f/73/de/6f73de5d-9bd5-05f1-ebbc-0e053afea88d/886449812868.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 13,
+      "url": "https://music.apple.com/us/album/broadway-girls-feat-morgan-wallen/1600721938?i=1600722156"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 3,
+    "fields": {
+      "artistName": "SZA",
+      "name": "I Hate U",
+      "releaseDate": "2021-12-03",
+      "kind": "songs",
+      "artistId": 605800394,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/f6/4f/19/f64f19b7-3ab4-ad2d-5a67-ca196d278b44/886449787043.jpg/100x100bb.jpg",
+      "genres": [27, 39],
+      "rank": 24,
+      "url": "https://music.apple.com/us/album/i-hate-u/1598221271?i=1598221453"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 4,
+    "fields": {
+      "artistName": "Mariah Carey",
+      "name": "All I Want For Christmas Is You",
+      "releaseDate": "1994-10-29",
+      "kind": "songs",
+      "artistId": 91853,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/100x100bb.jpg",
+      "genres": [14, 27, 38, 39, 41],
+      "rank": 84,
+      "url": "https://music.apple.com/us/album/all-i-want-for-christmas-is-you/585972750?i=585972803"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 5,
+    "fields": {
+      "artistName": "Adele",
+      "name": "Easy On Me",
+      "releaseDate": "2021-10-14",
+      "kind": "songs",
+      "artistId": 262836961,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/73/6d/7c/736d7cfb-c79d-c9a9-4170-5e71d008dea1/886449666430.jpg/100x100bb.jpg",
+      "genres": [27, 38],
+      "rank": 42,
+      "url": "https://music.apple.com/us/album/easy-on-me/1590035691?i=1590036021"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 6,
+    "fields": {
+      "artistName": "Drake",
+      "name": "Knife Talk (feat. 21 Savage & Project Pat)",
+      "releaseDate": "2021-09-03",
+      "kind": "songs",
+      "artistId": 271256,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/11/36/38/1136384a-eebc-697a-c005-d890e41c0854/21UM1IM07518.rgb.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 46,
+      "url": "https://music.apple.com/us/album/knife-talk-feat-21-savage-project-pat/1584281467?i=1584281787"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 7,
+    "fields": {
+      "artistName": "Roddy Ricch",
+      "name": "hibachi (feat. Kodak Black & 21 Savage)",
+      "releaseDate": "2021-12-17",
+      "kind": "songs",
+      "artistId": 1212442072,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/3a/bf/02/3abf028a-7bd2-8d42-c10a-d0ca1d9f85d7/075679762580.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 61,
+      "url": "https://music.apple.com/us/album/hibachi-feat-kodak-black-21-savage/1598011282?i=1598011295"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 8,
+    "fields": {
+      "artistName": "Roddy Ricch",
+      "name": "25 million",
+      "releaseDate": "2021-12-16",
+      "kind": "songs",
+      "artistId": 1212442072,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/3a/bf/02/3abf028a-7bd2-8d42-c10a-d0ca1d9f85d7/075679762580.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 36,
+      "url": "https://music.apple.com/us/album/25-million/1598011282?i=1598011806"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 9,
+    "fields": {
+      "artistName": "Rod Wave",
+      "name": "By Your Side",
+      "releaseDate": "2021-11-22",
+      "kind": "songs",
+      "artistId": 1140623439,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music116/v4/dc/31/a0/dc31a05a-1a87-5a7b-16d6-141da115ed4f/886449762422.jpg/100x100bb.jpg",
+      "genres": [27],
+      "rank": 57,
+      "url": "https://music.apple.com/us/album/by-your-side/1596505571?i=1596505572"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 10,
+    "fields": {
+      "artistName": "Roddy Ricch",
+      "name": "moved to miami (feat. Lil Baby)",
+      "releaseDate": "2021-12-16",
+      "kind": "songs",
+      "artistId": 1212442072,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/3a/bf/02/3abf028a-7bd2-8d42-c10a-d0ca1d9f85d7/075679762580.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 15,
+      "url": "https://music.apple.com/us/album/moved-to-miami-feat-lil-baby/1598011282?i=1598011705"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 11,
+    "fields": {
+      "artistName": "Juice WRLD",
+      "name": "Burn",
+      "releaseDate": "2021-12-10",
+      "kind": "songs",
+      "artistId": 1368733420,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music116/v4/f4/51/17/f451178a-ab05-98b5-ff60-8502804db9b9/21UM1IM54282.rgb.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 59,
+      "url": "https://music.apple.com/us/album/burn/1599450560?i=1599450568"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 12,
+    "fields": {
+      "artistName": "Roddy Ricch",
+      "name": "all good (feat. Future)",
+      "releaseDate": "2021-12-16",
+      "kind": "songs",
+      "artistId": 1212442072,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/3a/bf/02/3abf028a-7bd2-8d42-c10a-d0ca1d9f85d7/075679762580.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 29,
+      "url": "https://music.apple.com/us/album/all-good-feat-future/1598011282?i=1598011292"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 13,
+    "fields": {
+      "artistName": "Nardo Wick",
+      "name": "Who Want Smoke?? (feat. G Herbo, Lil Durk & 21 Savage)",
+      "releaseDate": "2021-10-08",
+      "kind": "songs",
+      "artistId": 1509337198,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/e6/5c/29/e65c2965-93f6-cbed-febe-4cb6c8479bad/886449255443.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 47,
+      "url": "https://music.apple.com/us/album/who-want-smoke-feat-g-herbo-lil-durk-21-savage/1588439290?i=1588439297"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 14,
+    "fields": {
+      "artistName": "Drake",
+      "name": "Way 2 Sexy (feat. Future & Young Thug)",
+      "releaseDate": "2021-09-03",
+      "kind": "songs",
+      "artistId": 271256,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/11/36/38/1136384a-eebc-697a-c005-d890e41c0854/21UM1IM07518.rgb.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 12,
+      "url": "https://music.apple.com/us/album/way-2-sexy-feat-future-young-thug/1584281467?i=1584281770"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 15,
+    "fields": {
+      "artistName": "Kelly Clarkson",
+      "name": "Underneath the Tree",
+      "releaseDate": "2013-10-25",
+      "kind": "songs",
+      "artistId": 316265,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/ee/40/2d/ee402d50-4a55-bcbe-b71c-6690784d4d37/886444201209.jpg/100x99bb.jpg",
+      "genres": [27, 38, 41],
+      "rank": 7,
+      "url": "https://music.apple.com/us/album/underneath-the-tree/720861443?i=720861445"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 16,
+    "fields": {
+      "artistName": "GAYLE",
+      "name": "abcdefu",
+      "releaseDate": "2021-08-13",
+      "kind": "songs",
+      "artistId": 1474403712,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/a8/28/f3/a828f3eb-74a6-96c9-356f-940da7905f54/075679774309.jpg/100x100bb.jpg",
+      "genres": [27, 38],
+      "rank": 79,
+      "url": "https://music.apple.com/us/album/abcdefu/1576949671?i=1576949673"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 17,
+    "fields": {
+      "artistName": "Roddy Ricch",
+      "name": "thailand",
+      "releaseDate": "2021-12-17",
+      "kind": "songs",
+      "artistId": 1212442072,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/3a/bf/02/3abf028a-7bd2-8d42-c10a-d0ca1d9f85d7/075679762580.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 62,
+      "url": "https://music.apple.com/us/album/thailand/1598011282?i=1598011289"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 18,
+    "fields": {
+      "artistName": "Ariana Grande",
+      "name": "Santa Tell Me",
+      "releaseDate": "2013-12-13",
+      "kind": "songs",
+      "artistId": 412778295,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/60/c8/2b/60c82b22-cd58-cdcd-5b51-6fad7a8b7055/14UMGIM55455.rgb.jpg/100x100bb.jpg",
+      "genres": [27],
+      "rank": 30,
+      "url": "https://music.apple.com/us/album/santa-tell-me/1444319981?i=1444319982"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 19,
+    "fields": {
+      "artistName": "Michael Bubl\u00e9",
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "releaseDate": "2011-10-14",
+      "kind": "songs",
+      "artistId": 799597,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/16/73/5a/16735af1-6a9c-8a4a-1664-cf806b2d9bc3/093624874232.jpg/100x100bb.jpg",
+      "genres": [27],
+      "rank": 18,
+      "url": "https://music.apple.com/us/album/its-beginning-to-look-a-lot-like-christmas/1592739844?i=1592740089"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 20,
+    "fields": {
+      "artistName": "YoungBoy Never Broke Again & Birdman",
+      "name": "Black Ball",
+      "releaseDate": "2021-12-06",
+      "kind": "songs",
+      "artistId": 1168822104,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/83/b2/2c/83b22c5a-e2ad-3ce6-66ae-4cc77fa041ca/190296329036.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 8,
+      "url": "https://music.apple.com/us/album/black-ball/1599656830?i=1599656947"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 21,
+    "fields": {
+      "artistName": "Summer Walker & SZA",
+      "name": "No Love",
+      "releaseDate": "2021-11-05",
+      "kind": "songs",
+      "artistId": 990402287,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f0/8c/bf/f08cbffc-1101-f974-a2d3-38381d8ed506/21UM1IM23130.rgb.jpg/100x100bb.jpg",
+      "genres": [27, 39],
+      "rank": 98,
+      "url": "https://music.apple.com/us/album/no-love/1590029262?i=1590029546"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 22,
+    "fields": {
+      "artistName": "Roddy Ricch",
+      "name": "late at night",
+      "releaseDate": "2021-06-04",
+      "kind": "songs",
+      "artistId": 1212442072,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/3a/bf/02/3abf028a-7bd2-8d42-c10a-d0ca1d9f85d7/075679762580.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 86,
+      "url": "https://music.apple.com/us/album/late-at-night/1598011282?i=1598011713"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 23,
+    "fields": {
+      "artistName": "Roddy Ricch",
+      "name": "don\u2019t i (feat. Gunna)",
+      "releaseDate": "2021-12-16",
+      "kind": "songs",
+      "artistId": 1212442072,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/3a/bf/02/3abf028a-7bd2-8d42-c10a-d0ca1d9f85d7/075679762580.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 87,
+      "url": "https://music.apple.com/us/album/dont-i-feat-gunna/1598011282?i=1598011707"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 24,
+    "fields": {
+      "artistName": "Roddy Ricch",
+      "name": "paid my dues (feat. Takeoff)",
+      "releaseDate": "2021-12-16",
+      "kind": "songs",
+      "artistId": 1212442072,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/3a/bf/02/3abf028a-7bd2-8d42-c10a-d0ca1d9f85d7/075679762580.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 28,
+      "url": "https://music.apple.com/us/album/paid-my-dues-feat-takeoff/1598011282?i=1598011687"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 25,
+    "fields": {
+      "artistName": "YoungBoy Never Broke Again & Birdman",
+      "name": "Heart & Soul",
+      "releaseDate": "2021-12-02",
+      "kind": "songs",
+      "artistId": 1168822104,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/83/b2/2c/83b22c5a-e2ad-3ce6-66ae-4cc77fa041ca/190296329036.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 66,
+      "url": "https://music.apple.com/us/album/heart-soul/1599656830?i=1599656853"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 26,
+    "fields": {
+      "artistName": "Bobby Helms",
+      "name": "Jingle Bell Rock",
+      "releaseDate": "1957-01-01",
+      "kind": "songs",
+      "artistId": 1579400,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/e8/18/6b/e8186bf9-5696-e721-b273-a5f173caf8c1/18UMGIM07062.rgb.jpg/100x100bb.jpg",
+      "genres": [27],
+      "rank": 58,
+      "url": "https://music.apple.com/us/album/jingle-bell-rock/1358462130?i=1358462132"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 27,
+    "fields": {
+      "artistName": "Bruno Mars, Anderson .Paak & Silk Sonic",
+      "name": "Smokin Out The Window",
+      "releaseDate": "2021-11-05",
+      "kind": "songs",
+      "artistId": 278873078,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/a4/1d/bd/a41dbda5-33b3-c66c-d99f-94eb4b01e56b/075679772947.jpg/100x100bb.jpg",
+      "genres": [27, 38, 39],
+      "rank": 34,
+      "url": "https://music.apple.com/us/album/smokin-out-the-window/1589361543?i=1589361900"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 28,
+    "fields": {
+      "artistName": "Doja Cat",
+      "name": "Need To Know",
+      "releaseDate": "2021-06-11",
+      "kind": "songs",
+      "artistId": 830588310,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/eb/63/fc/eb63fc4c-f36b-5981-a790-8f05c8dd2df1/886449138852.jpg/100x100bb.jpg",
+      "genres": [27, 38],
+      "rank": 21,
+      "url": "https://music.apple.com/us/album/need-to-know/1571168930?i=1571169194"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 29,
+    "fields": {
+      "artistName": "Wham!",
+      "name": "Last Christmas",
+      "releaseDate": "1984-01-01",
+      "kind": "songs",
+      "artistId": 548421,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/47/55/0c/47550cd6-7ef5-bf86-c194-c7695d63c759/dj.xuditatj.jpg/100x100bb.jpg",
+      "genres": [14, 27, 38],
+      "rank": 16,
+      "url": "https://music.apple.com/us/album/last-christmas/282658449?i=282658482"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 30,
+    "fields": {
+      "artistName": "Lil Nas X & Jack Harlow",
+      "name": "INDUSTRY BABY",
+      "releaseDate": "2021-07-23",
+      "kind": "songs",
+      "artistId": 1400730578,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/79/d7/66/79d7669f-36ff-46fb-16cb-b86fd321ef25/886449403912.jpg/100x100bb.jpg",
+      "genres": [24, 27, 38],
+      "rank": 74,
+      "url": "https://music.apple.com/us/album/industry-baby/1576552540?i=1576552565"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 31,
+    "fields": {
+      "artistName": "Roddy Ricch",
+      "name": "rollercoastin",
+      "releaseDate": "2021-12-16",
+      "kind": "songs",
+      "artistId": 1212442072,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/3a/bf/02/3abf028a-7bd2-8d42-c10a-d0ca1d9f85d7/075679762580.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 78,
+      "url": "https://music.apple.com/us/album/rollercoastin/1598011282?i=1598011293"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 32,
+    "fields": {
+      "artistName": "Drake",
+      "name": "Girls Want Girls (feat. Lil Baby)",
+      "releaseDate": "2021-09-03",
+      "kind": "songs",
+      "artistId": 271256,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/11/36/38/1136384a-eebc-697a-c005-d890e41c0854/21UM1IM07518.rgb.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 70,
+      "url": "https://music.apple.com/us/album/girls-want-girls-feat-lil-baby/1584281467?i=1584281482"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 33,
+    "fields": {
+      "artistName": "The Kid LAROI & Justin Bieber",
+      "name": "STAY",
+      "releaseDate": "2021-07-09",
+      "kind": "songs",
+      "artistId": 1435848034,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/e8/eb/cc/e8ebcc8d-6293-6e7f-7cc5-defa2bdbd4bd/886449399895.jpg/100x100bb.jpg",
+      "genres": [27, 38],
+      "rank": 80,
+      "url": "https://music.apple.com/us/album/stay/1574378620?i=1574378625"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 34,
+    "fields": {
+      "artistName": "Andy Williams",
+      "name": "It's the Most Wonderful Time of the Year",
+      "releaseDate": "1963-10-14",
+      "kind": "songs",
+      "artistId": 466691,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/d9/84/16/d98416a4-d960-4602-8f2c-4f03165d434d/mzi.hohpjzfa.jpg/100x100bb.jpg",
+      "genres": [27, 38, 41],
+      "rank": 93,
+      "url": "https://music.apple.com/us/album/its-the-most-wonderful-time-of-the-year/171434474?i=171434594"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 35,
+    "fields": {
+      "artistName": "Justin Bieber",
+      "name": "Mistletoe",
+      "releaseDate": "2011-10-17",
+      "kind": "songs",
+      "artistId": 320569549,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/71/b9/49/71b9493c-57d3-c2dc-0ef0-d38417d7e937/11UMGIM34123.rgb.jpg/100x100bb.jpg",
+      "genres": [27, 38, 41],
+      "rank": 91,
+      "url": "https://music.apple.com/us/album/mistletoe/1440640693?i=1440640717"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 36,
+    "fields": {
+      "artistName": "Juice WRLD",
+      "name": "Already Dead",
+      "releaseDate": "2021-11-12",
+      "kind": "songs",
+      "artistId": 1368733420,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music116/v4/f4/51/17/f451178a-ab05-98b5-ff60-8502804db9b9/21UM1IM54282.rgb.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 40,
+      "url": "https://music.apple.com/us/album/already-dead/1599450560?i=1599450571"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 37,
+    "fields": {
+      "artistName": "Roddy Ricch",
+      "name": "crash the party",
+      "releaseDate": "2021-12-16",
+      "kind": "songs",
+      "artistId": 1212442072,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/3a/bf/02/3abf028a-7bd2-8d42-c10a-d0ca1d9f85d7/075679762580.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 33,
+      "url": "https://music.apple.com/us/album/crash-the-party/1598011282?i=1598011689"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 38,
+    "fields": {
+      "artistName": "Glass Animals",
+      "name": "Heat Waves",
+      "releaseDate": "2020-08-07",
+      "kind": "songs",
+      "artistId": 528928008,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/da/8b/77/da8b7731-6f4f-eacf-5e74-8b23389eefa1/20UMGIM03371.rgb.jpg/100x100bb.jpg",
+      "genres": [2, 27],
+      "rank": 54,
+      "url": "https://music.apple.com/us/album/heat-waves/1508562310?i=1508562516"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 39,
+    "fields": {
+      "artistName": "Juice WRLD & Justin Bieber",
+      "name": "Wandered To LA",
+      "releaseDate": "2021-12-03",
+      "kind": "songs",
+      "artistId": 1368733420,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music116/v4/f4/51/17/f451178a-ab05-98b5-ff60-8502804db9b9/21UM1IM54282.rgb.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 51,
+      "url": "https://music.apple.com/us/album/wandered-to-la/1599450560?i=1599450760"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 40,
+    "fields": {
+      "artistName": "Juice WRLD, Polo G & Trippie Redd",
+      "name": "Feline",
+      "releaseDate": "2021-12-10",
+      "kind": "songs",
+      "artistId": 1368733420,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music116/v4/f4/51/17/f451178a-ab05-98b5-ff60-8502804db9b9/21UM1IM54282.rgb.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 73,
+      "url": "https://music.apple.com/us/album/feline/1599450560?i=1599451059"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 41,
+    "fields": {
+      "artistName": "Nardo Wick",
+      "name": "Me or Sum (feat. Future & Lil Baby)",
+      "releaseDate": "2021-12-01",
+      "kind": "songs",
+      "artistId": 1509337198,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/70/6f/f9/706ff924-34a1-d3a4-eceb-70162f73d6c6/886449754113.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 56,
+      "url": "https://music.apple.com/us/album/me-or-sum-feat-future-lil-baby/1597172268?i=1597172274"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 42,
+    "fields": {
+      "artistName": "Darlene Love",
+      "name": "Christmas (Baby Please Come Home)",
+      "releaseDate": "1963-11-22",
+      "kind": "songs",
+      "artistId": 16326345,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/92/5f/2e925fa4-6a4e-a15e-7cfc-bb3f13f053e1/mzi.ermvbetx.jpg/100x99bb.jpg",
+      "genres": [27],
+      "rank": 37,
+      "url": "https://music.apple.com/us/album/christmas-baby-please-come-home/336036941?i=336037344"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 43,
+    "fields": {
+      "artistName": "A Boogie wit da Hoodie",
+      "name": "Man in the Mirror",
+      "releaseDate": "2021-12-10",
+      "kind": "songs",
+      "artistId": 1068300376,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/c4/64/56/c4645672-9c46-6dc5-fa3d-73a79fa6286c/075679761453.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 45,
+      "url": "https://music.apple.com/us/album/man-in-the-mirror/1599321200?i=1599321204"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 44,
+    "fields": {
+      "artistName": "Brenda Lee",
+      "name": "Rockin' Around the Christmas Tree (Single)",
+      "releaseDate": "1958-01-01",
+      "kind": "songs",
+      "artistId": 99320,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/37/84/6c/37846c90-365d-b59e-5b4a-a9c512989dab/06UMGIM02727.rgb.jpg/100x99bb.jpg",
+      "genres": [12, 27],
+      "rank": 96,
+      "url": "https://music.apple.com/us/album/rockin-around-the-christmas-tree-single/1444032014?i=1444032015"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 45,
+    "fields": {
+      "artistName": "Roddy Ricch",
+      "name": "man made",
+      "releaseDate": "2021-12-16",
+      "kind": "songs",
+      "artistId": 1212442072,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/3a/bf/02/3abf028a-7bd2-8d42-c10a-d0ca1d9f85d7/075679762580.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 67,
+      "url": "https://music.apple.com/us/album/man-made/1598011282?i=1598011700"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 46,
+    "fields": {
+      "artistName": "Roddy Ricch",
+      "name": "llf",
+      "releaseDate": "2021-12-16",
+      "kind": "songs",
+      "artistId": 1212442072,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/3a/bf/02/3abf028a-7bd2-8d42-c10a-d0ca1d9f85d7/075679762580.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 72,
+      "url": "https://music.apple.com/us/album/llf/1598011282?i=1598011287"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 47,
+    "fields": {
+      "artistName": "Roddy Ricch",
+      "name": "murda one (feat. Fivio Foreign)",
+      "releaseDate": "2021-12-17",
+      "kind": "songs",
+      "artistId": 1212442072,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/3a/bf/02/3abf028a-7bd2-8d42-c10a-d0ca1d9f85d7/075679762580.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 69,
+      "url": "https://music.apple.com/us/album/murda-one-feat-fivio-foreign/1598011282?i=1598011702"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 48,
+    "fields": {
+      "artistName": "Roddy Ricch",
+      "name": "no way (feat. Jamie Foxx)",
+      "releaseDate": "2021-12-16",
+      "kind": "songs",
+      "artistId": 1212442072,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/3a/bf/02/3abf028a-7bd2-8d42-c10a-d0ca1d9f85d7/075679762580.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 22,
+      "url": "https://music.apple.com/us/album/no-way-feat-jamie-foxx/1598011282?i=1598011692"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 49,
+    "fields": {
+      "artistName": "Drake",
+      "name": "Fair Trade (feat. Travis Scott)",
+      "releaseDate": "2021-09-03",
+      "kind": "songs",
+      "artistId": 271256,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/11/36/38/1136384a-eebc-697a-c005-d890e41c0854/21UM1IM07518.rgb.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 52,
+      "url": "https://music.apple.com/us/album/fair-trade-feat-travis-scott/1584281467?i=1584281493"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 50,
+    "fields": {
+      "artistName": "Drake",
+      "name": "Wants and Needs (feat. Lil Baby)",
+      "releaseDate": "2021-03-05",
+      "kind": "songs",
+      "artistId": 271256,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/63/2a/34/632a3488-d104-3ff1-dc02-4ed86f58ed05/21UMGIM18577.rgb.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 94,
+      "url": "https://music.apple.com/us/album/wants-and-needs-feat-lil-baby/1556669854?i=1556670532"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 51,
+    "fields": {
+      "artistName": "Dean Martin",
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "releaseDate": "1959-11-16",
+      "kind": "songs",
+      "artistId": 266028,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/de/4e/ee/de4eee23-3b19-2533-985e-b3b2f2ddf137/13UACIM76530.rgb.jpg/100x100bb.jpg",
+      "genres": [27, 38],
+      "rank": 25,
+      "url": "https://music.apple.com/us/album/let-it-snow-let-it-snow-let-it-snow/724322340?i=724322860"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 52,
+    "fields": {
+      "artistName": "Polo G",
+      "name": "Don't Play (feat. Lil Baby)",
+      "releaseDate": "2021-12-03",
+      "kind": "songs",
+      "artistId": 1159371412,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/55/c9/f0/55c9f0eb-2ef8-8738-743f-effa1d6d6ff4/886449384075.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 71,
+      "url": "https://music.apple.com/us/album/dont-play-feat-lil-baby/1593949629?i=1593949634"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 53,
+    "fields": {
+      "artistName": "Roddy Ricch",
+      "name": "everything you need",
+      "releaseDate": "2021-12-16",
+      "kind": "songs",
+      "artistId": 1212442072,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/3a/bf/02/3abf028a-7bd2-8d42-c10a-d0ca1d9f85d7/075679762580.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 99,
+      "url": "https://music.apple.com/us/album/everything-you-need/1598011282?i=1598011704"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 54,
+    "fields": {
+      "artistName": "Meek Mill",
+      "name": "Sharing Locations (feat. Lil Baby & Lil Durk)",
+      "releaseDate": "2021-08-27",
+      "kind": "songs",
+      "artistId": 313865761,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/3a/4d/ee/3a4deeb4-9555-4bef-3836-185a913b0b20/075679769602.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 83,
+      "url": "https://music.apple.com/us/album/sharing-locations-feat-lil-baby-lil-durk/1585883836?i=1585883847"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 55,
+    "fields": {
+      "artistName": "Juice WRLD",
+      "name": "You Wouldn't Understand",
+      "releaseDate": "2021-12-10",
+      "kind": "songs",
+      "artistId": 1368733420,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music116/v4/f4/51/17/f451178a-ab05-98b5-ff60-8502804db9b9/21UM1IM54282.rgb.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 88,
+      "url": "https://music.apple.com/us/album/you-wouldnt-understand/1599450560?i=1599450758"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 56,
+    "fields": {
+      "artistName": "Jonas Brothers",
+      "name": "Like It's Christmas",
+      "releaseDate": "2019-11-08",
+      "kind": "songs",
+      "artistId": 114342891,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/27/9d/df/279ddfe1-74db-1929-b48e-8faade18e3a1/19UMGIM98457.rgb.jpg/100x100bb.jpg",
+      "genres": [27],
+      "rank": 43,
+      "url": "https://music.apple.com/us/album/like-its-christmas/1485796557?i=1485796558"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 57,
+    "fields": {
+      "artistName": "Adele",
+      "name": "Oh My God",
+      "releaseDate": "2021-11-19",
+      "kind": "songs",
+      "artistId": 262836961,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/73/6d/7c/736d7cfb-c79d-c9a9-4170-5e71d008dea1/886449666430.jpg/100x100bb.jpg",
+      "genres": [27, 38],
+      "rank": 76,
+      "url": "https://music.apple.com/us/album/oh-my-god/1590035691?i=1590036031"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 58,
+    "fields": {
+      "artistName": "Roddy Ricch",
+      "name": "slow it down (feat. Ty Dolla $ign & Alex Isley)",
+      "releaseDate": "2021-12-16",
+      "kind": "songs",
+      "artistId": 1212442072,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/3a/bf/02/3abf028a-7bd2-8d42-c10a-d0ca1d9f85d7/075679762580.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 6,
+      "url": "https://music.apple.com/us/album/slow-it-down-feat-ty-dolla-%24ign-alex-isley/1598011282?i=1598011696"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 59,
+    "fields": {
+      "artistName": "Summer Walker",
+      "name": "Insane",
+      "releaseDate": "2021-11-05",
+      "kind": "songs",
+      "artistId": 990402287,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f0/8c/bf/f08cbffc-1101-f974-a2d3-38381d8ed506/21UM1IM23130.rgb.jpg/100x100bb.jpg",
+      "genres": [27, 39],
+      "rank": 10,
+      "url": "https://music.apple.com/us/album/insane/1590029262?i=1590029763"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 60,
+    "fields": {
+      "artistName": "Juice WRLD",
+      "name": "Rockstar In His Prime",
+      "releaseDate": "2021-12-10",
+      "kind": "songs",
+      "artistId": 1368733420,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music116/v4/f4/51/17/f451178a-ab05-98b5-ff60-8502804db9b9/21UM1IM54282.rgb.jpg/100x100bb.jpg",
+      "genres": [27],
+      "rank": 77,
+      "url": "https://music.apple.com/us/album/rockstar-in-his-prime/1599450560?i=1599450767"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 61,
+    "fields": {
+      "artistName": "Young Thug",
+      "name": "Bubbly (with Drake & Travis Scott)",
+      "releaseDate": "2021-10-15",
+      "kind": "songs",
+      "artistId": 81886939,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/f1/e6/ad/f1e6adf1-fce1-a7fa-2f9c-e37e32738306/075679767103.jpg/100x100bb.jpg",
+      "genres": [27],
+      "rank": 50,
+      "url": "https://music.apple.com/us/album/bubbly-with-drake-travis-scott/1590479961?i=1590480364"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 62,
+    "fields": {
+      "artistName": "YoungBoy Never Broke Again & Birdman",
+      "name": "Alligator Walk",
+      "releaseDate": "2021-12-02",
+      "kind": "songs",
+      "artistId": 1168822104,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/83/b2/2c/83b22c5a-e2ad-3ce6-66ae-4cc77fa041ca/190296329036.jpg/100x100bb.jpg",
+      "genres": [27],
+      "rank": 14,
+      "url": "https://music.apple.com/us/album/alligator-walk/1599656830?i=1599656843"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 63,
+    "fields": {
+      "artistName": "The Ronettes",
+      "name": "Sleigh Ride",
+      "releaseDate": "1963-11-22",
+      "kind": "songs",
+      "artistId": 16326351,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/92/5f/2e925fa4-6a4e-a15e-7cfc-bb3f13f053e1/mzi.ermvbetx.jpg/100x99bb.jpg",
+      "genres": [27],
+      "rank": 90,
+      "url": "https://music.apple.com/us/album/sleigh-ride/336036941?i=336037282"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 64,
+    "fields": {
+      "artistName": "Farruko",
+      "name": "Pepas",
+      "releaseDate": "2021-06-24",
+      "kind": "songs",
+      "artistId": 364377482,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/66/bd/86/66bd86b2-3dc4-0cbd-d47e-00cc863dd7c4/886449370535.jpg/100x100bb.jpg",
+      "genres": [27, 34],
+      "rank": 32,
+      "url": "https://music.apple.com/us/album/pepas/1573304187?i=1573304194"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 65,
+    "fields": {
+      "artistName": "Juice WRLD",
+      "name": "Doom",
+      "releaseDate": "2021-12-10",
+      "kind": "songs",
+      "artistId": 1368733420,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music116/v4/f4/51/17/f451178a-ab05-98b5-ff60-8502804db9b9/21UM1IM54282.rgb.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 60,
+      "url": "https://music.apple.com/us/album/doom/1599450560?i=1599450770"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 66,
+    "fields": {
+      "artistName": "Burl Ives",
+      "name": "A Holly Jolly Christmas (Single Version)",
+      "releaseDate": "1964-11-01",
+      "kind": "songs",
+      "artistId": 355906,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/20/5a/c1/205ac196-f4f4-7957-88e4-eab5ab9470c5/06UMGIM17860.rgb.jpg/100x100bb.jpg",
+      "genres": [27, 43, 44],
+      "rank": 17,
+      "url": "https://music.apple.com/us/album/a-holly-jolly-christmas-single-version/1444213347?i=1444213351"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 67,
+    "fields": {
+      "artistName": "YoungBoy Never Broke Again & Birdman",
+      "name": "How Ya Kno",
+      "releaseDate": "2021-12-09",
+      "kind": "songs",
+      "artistId": 1168822104,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/83/b2/2c/83b22c5a-e2ad-3ce6-66ae-4cc77fa041ca/190296329036.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 19,
+      "url": "https://music.apple.com/us/album/how-ya-kno/1599656830?i=1599656854"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 68,
+    "fields": {
+      "artistName": "YoungBoy Never Broke Again & Birdman",
+      "name": "Achievements",
+      "releaseDate": "2021-12-09",
+      "kind": "songs",
+      "artistId": 1168822104,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/83/b2/2c/83b22c5a-e2ad-3ce6-66ae-4cc77fa041ca/190296329036.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 82,
+      "url": "https://music.apple.com/us/album/achievements/1599656830?i=1599656855"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 69,
+    "fields": {
+      "artistName": "Jos\u00e9 Feliciano",
+      "name": "Feliz Navidad",
+      "releaseDate": "1970-11-01",
+      "kind": "songs",
+      "artistId": 249044,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/cf/a7/f8/cfa7f807-e9a6-758d-97e0-f1cd843b5a20/mzi.vcbwvmqu.jpg/100x100bb.jpg",
+      "genres": [27, 34, 38, 43],
+      "rank": 89,
+      "url": "https://music.apple.com/us/album/feliz-navidad/255615877?i=255615879"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 70,
+    "fields": {
+      "artistName": "Roddy Ricch",
+      "name": "more than a trend",
+      "releaseDate": "2021-12-16",
+      "kind": "songs",
+      "artistId": 1212442072,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/3a/bf/02/3abf028a-7bd2-8d42-c10a-d0ca1d9f85d7/075679762580.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 23,
+      "url": "https://music.apple.com/us/album/more-than-a-trend/1598011282?i=1598011712"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 71,
+    "fields": {
+      "artistName": "NEIKED, Mae Muller & Polo G",
+      "name": "Better Days",
+      "releaseDate": "2021-09-24",
+      "kind": "songs",
+      "artistId": 1053426262,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/89/4c/4d/894c4d0d-886e-ee58-02a7-4ff4cd4a2fbf/21UM1IM07372.rgb.jpg/100x100bb.jpg",
+      "genres": [27, 38],
+      "rank": 95,
+      "url": "https://music.apple.com/us/album/better-days/1585274078?i=1585274082"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 72,
+    "fields": {
+      "artistName": "Jessie Murph",
+      "name": "Always Been You",
+      "releaseDate": "2021-11-24",
+      "kind": "songs",
+      "artistId": 1548067332,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/c9/db/52/c9db528c-6d5d-ceb5-c1d8-66bcddca19f9/886449762408.jpg/100x100bb.jpg",
+      "genres": [2, 27],
+      "rank": 4,
+      "url": "https://music.apple.com/us/album/always-been-you/1596542776?i=1596542777"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 73,
+    "fields": {
+      "artistName": "Billie Eilish",
+      "name": "Happier Than Ever",
+      "releaseDate": "2021-07-30",
+      "kind": "songs",
+      "artistId": 1065981054,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/2d/f3/c9/2df3c9fd-e0eb-257c-c035-b04f05a66580/21UMGIM36691.rgb.jpg/100x100bb.jpg",
+      "genres": [2, 27],
+      "rank": 3,
+      "url": "https://music.apple.com/us/album/happier-than-ever/1564530719?i=1564531202"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 74,
+    "fields": {
+      "artistName": "Muni Long",
+      "name": "Hrs and Hrs",
+      "releaseDate": "2021-11-19",
+      "kind": "songs",
+      "artistId": 1531512544,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music116/v4/bd/1c/a1/bd1ca183-18fa-d168-5d07-803c127579ee/11.jpg/100x100bb.jpg",
+      "genres": [27, 39],
+      "rank": 9,
+      "url": "https://music.apple.com/us/album/hrs-and-hrs/1592385694?i=1592385956"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 75,
+    "fields": {
+      "artistName": "Pooh Shiesty",
+      "name": "Back in Blood (feat. Lil Durk)",
+      "releaseDate": "2020-11-05",
+      "kind": "songs",
+      "artistId": 1456620250,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/11/b4/9c/11b49c5c-5f0b-8f2b-0f78-787ff719855c/075679792266.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 92,
+      "url": "https://music.apple.com/us/album/back-in-blood-feat-lil-durk/1548999027?i=1548999402"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 76,
+    "fields": {
+      "artistName": "Juice WRLD",
+      "name": "Go Hard",
+      "releaseDate": "2021-12-10",
+      "kind": "songs",
+      "artistId": 1368733420,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music116/v4/f4/51/17/f451178a-ab05-98b5-ff60-8502804db9b9/21UM1IM54282.rgb.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 44,
+      "url": "https://music.apple.com/us/album/go-hard/1599450560?i=1599450771"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 77,
+    "fields": {
+      "artistName": "Taylor Swift",
+      "name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
+      "releaseDate": "2021-11-12",
+      "kind": "songs",
+      "artistId": 159260351,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/15/38/9b/15389bf4-8074-06c3-11ee-655b5453af68/21UM1IM25046.rgb.jpg/100x100bb.jpg",
+      "genres": [27, 38],
+      "rank": 27,
+      "url": "https://music.apple.com/us/album/all-too-well-10-minute-version-taylors-version-from/1590368448?i=1590368894"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 78,
+    "fields": {
+      "artistName": "Drake",
+      "name": "In The Bible (feat. Lil Durk & GIV\u0112ON)",
+      "releaseDate": "2021-09-03",
+      "kind": "songs",
+      "artistId": 271256,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/11/36/38/1136384a-eebc-697a-c005-d890e41c0854/21UM1IM07518.rgb.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 26,
+      "url": "https://music.apple.com/us/album/in-the-bible-feat-lil-durk-giv%C4%93on/1584281467?i=1584281485"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 79,
+    "fields": {
+      "artistName": "DJ Khaled",
+      "name": "EVERY CHANCE I GET (feat. Lil Baby & Lil Durk)",
+      "releaseDate": "2021-04-30",
+      "kind": "songs",
+      "artistId": 157749142,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/5f/13/2b/5f132b68-1e45-36c3-452a-2a68ffb6aab5/886448654483.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 53,
+      "url": "https://music.apple.com/us/album/every-chance-i-get-feat-lil-baby-lil-durk/1565443380?i=1565443631"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 80,
+    "fields": {
+      "artistName": "Doja Cat",
+      "name": "Woman",
+      "releaseDate": "2021-06-25",
+      "kind": "songs",
+      "artistId": 830588310,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/eb/63/fc/eb63fc4c-f36b-5981-a790-8f05c8dd2df1/886449138852.jpg/100x100bb.jpg",
+      "genres": [27, 38],
+      "rank": 85,
+      "url": "https://music.apple.com/us/album/woman/1571168930?i=1571169048"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 81,
+    "fields": {
+      "artistName": "Bad Bunny & Jhay Cortez",
+      "name": "D\u00c1KITI",
+      "releaseDate": "2020-10-30",
+      "kind": "songs",
+      "artistId": 1126808565,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/64/70/1c/64701cff-71ed-912f-ce62-71d409f5e6ad/195497640560.jpg/100x100bb.jpg",
+      "genres": [27, 34],
+      "rank": 31,
+      "url": "https://music.apple.com/us/album/d%C3%A1kiti/1542102907?i=1542103620"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 82,
+    "fields": {
+      "artistName": "Olivia Rodrigo",
+      "name": "traitor",
+      "releaseDate": "2021-05-21",
+      "kind": "songs",
+      "artistId": 979458609,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/33/fd/32/33fd32b1-0e43-9b4a-8ed6-19643f23544e/21UMGIM26092.rgb.jpg/100x100bb.jpg",
+      "genres": [27, 38],
+      "rank": 68,
+      "url": "https://music.apple.com/us/album/traitor/1560735414?i=1560735421"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 83,
+    "fields": {
+      "artistName": "Drake",
+      "name": "No Friends In The Industry",
+      "releaseDate": "2021-09-03",
+      "kind": "songs",
+      "artistId": 271256,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/11/36/38/1136384a-eebc-697a-c005-d890e41c0854/21UM1IM07518.rgb.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 75,
+      "url": "https://music.apple.com/us/album/no-friends-in-the-industry/1584281467?i=1584281784"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 84,
+    "fields": {
+      "artistName": "Adele",
+      "name": "My Little Love",
+      "releaseDate": "2021-11-19",
+      "kind": "songs",
+      "artistId": 262836961,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/73/6d/7c/736d7cfb-c79d-c9a9-4170-5e71d008dea1/886449666430.jpg/100x100bb.jpg",
+      "genres": [27, 38],
+      "rank": 2,
+      "url": "https://music.apple.com/us/album/my-little-love/1590035691?i=1590036026"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 85,
+    "fields": {
+      "artistName": "Juice WRLD",
+      "name": "Not Enough",
+      "releaseDate": "2021-12-10",
+      "kind": "songs",
+      "artistId": 1368733420,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music116/v4/f4/51/17/f451178a-ab05-98b5-ff60-8502804db9b9/21UM1IM54282.rgb.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 11,
+      "url": "https://music.apple.com/us/album/not-enough/1599450560?i=1599450776"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 86,
+    "fields": {
+      "artistName": "Ed Sheeran",
+      "name": "Shivers",
+      "releaseDate": "2021-09-09",
+      "kind": "songs",
+      "artistId": 183313439,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c5/d8/c6/c5d8c675-63e3-6632-33db-2401eabe574d/190296491412.jpg/100x100bb.jpg",
+      "genres": [27, 38],
+      "rank": 100,
+      "url": "https://music.apple.com/us/album/shivers/1581087024?i=1581087034"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 87,
+    "fields": {
+      "artistName": "Pop Smoke",
+      "name": "For The Night (feat. Lil Baby & DaBaby)",
+      "releaseDate": "2020-07-03",
+      "kind": "songs",
+      "artistId": 1450601383,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/1c/ed/39/1ced39e0-c34d-52b0-021c-ff967f21f5bf/20UMGIM55833.rgb.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 39,
+      "url": "https://music.apple.com/us/album/for-the-night-feat-lil-baby-dababy/1521889004?i=1521889285"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 88,
+    "fields": {
+      "artistName": "Pentatonix",
+      "name": "Hallelujah",
+      "releaseDate": "2016-10-21",
+      "kind": "songs",
+      "artistId": 466047278,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/20/9c/87/209c87ba-7992-8062-0576-758c8550564a/886446670744.jpg/100x100bb.jpg",
+      "genres": [27, 38],
+      "rank": 48,
+      "url": "https://music.apple.com/us/album/hallelujah/1296454740?i=1296455325"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 89,
+    "fields": {
+      "artistName": "Polo G",
+      "name": "RAPSTAR",
+      "releaseDate": "2021-04-09",
+      "kind": "songs",
+      "artistId": 1159371412,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/c7/a2/d8/c7a2d853-d4f4-acbb-a5db-50c6abd96fef/886449197293.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 20,
+      "url": "https://music.apple.com/us/album/rapstar/1561051433?i=1561051618"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 90,
+    "fields": {
+      "artistName": "Polo G",
+      "name": "Bad Man (Smooth Criminal)",
+      "releaseDate": "2021-11-12",
+      "kind": "songs",
+      "artistId": 1159371412,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/55/c9/f0/55c9f0eb-2ef8-8738-743f-effa1d6d6ff4/886449384075.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 64,
+      "url": "https://music.apple.com/us/album/bad-man-smooth-criminal/1593949629?i=1593949631"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 91,
+    "fields": {
+      "artistName": "Bruno Mars, Anderson .Paak & Silk Sonic",
+      "name": "Leave The Door Open",
+      "releaseDate": "2021-03-05",
+      "kind": "songs",
+      "artistId": 278873078,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/df/ea/1e/dfea1eff-d37a-35b4-cda6-bc7248b72168/075679788337.jpg/100x100bb.jpg",
+      "genres": [27, 38, 39],
+      "rank": 55,
+      "url": "https://music.apple.com/us/album/leave-the-door-open/1556096966?i=1556097162"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 92,
+    "fields": {
+      "artistName": "Summer Walker & Cardi B",
+      "name": "Bitter (Narration By Cardi B)",
+      "releaseDate": "2021-11-05",
+      "kind": "songs",
+      "artistId": 990402287,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f0/8c/bf/f08cbffc-1101-f974-a2d3-38381d8ed506/21UM1IM23130.rgb.jpg/100x100bb.jpg",
+      "genres": [27, 39],
+      "rank": 38,
+      "url": "https://music.apple.com/us/album/bitter-narration-by-cardi-b/1590029262?i=1590029265"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 93,
+    "fields": {
+      "artistName": "42 Dugg",
+      "name": "Maybach (feat. Future)",
+      "releaseDate": "2021-05-21",
+      "kind": "songs",
+      "artistId": 1277595465,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/10/0e/c6/100ec600-07be-5eae-946d-31aed5b8d527/21UMGIM40486.rgb.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 97,
+      "url": "https://music.apple.com/us/album/maybach-feat-future/1567625813?i=1567625821"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 94,
+    "fields": {
+      "artistName": "Wizkid",
+      "name": "Essence (feat. Tems)",
+      "releaseDate": "2020-10-29",
+      "kind": "songs",
+      "artistId": 309335750,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/b0/09/8e/b0098ed0-ef53-f2b5-386a-c8e6181f3c8a/886448775256.jpg/100x100bb.jpg",
+      "genres": [27, 49],
+      "rank": 5,
+      "url": "https://music.apple.com/us/album/essence-feat-tems/1531532301?i=1531532767"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 95,
+    "fields": {
+      "artistName": "Frank Sinatra",
+      "name": "Jingle Bells",
+      "releaseDate": "1957-09-21",
+      "kind": "songs",
+      "artistId": 171366,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/b9/15/b0/b915b0a7-7282-7d8b-0475-f029e8667db3/00602537646623.rgb.jpg/100x100bb.jpg",
+      "genres": [27, 30],
+      "rank": 35,
+      "url": "https://music.apple.com/us/album/jingle-bells/1440862061?i=1440862184"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 96,
+    "fields": {
+      "artistName": "Olivia Rodrigo",
+      "name": "good 4 u",
+      "releaseDate": "2021-05-14",
+      "kind": "songs",
+      "artistId": 979458609,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/33/fd/32/33fd32b1-0e43-9b4a-8ed6-19643f23544e/21UMGIM26092.rgb.jpg/100x100bb.jpg",
+      "genres": [12, 27, 38],
+      "rank": 41,
+      "url": "https://music.apple.com/us/album/good-4-u/1560735414?i=1560735551"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 97,
+    "fields": {
+      "artistName": "Morgan Wallen",
+      "name": "Wasted On You",
+      "releaseDate": "2021-01-08",
+      "kind": "songs",
+      "artistId": 829142092,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/10/a2/39/10a239bc-0f25-69d2-52df-b1fe755dcf19/20UM1IM03632.rgb.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 49,
+      "url": "https://music.apple.com/us/album/wasted-on-you/1540314609?i=1540314624"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 98,
+    "fields": {
+      "artistName": "Chief Keef",
+      "name": "Bitch Where",
+      "releaseDate": "2021-12-17",
+      "kind": "songs",
+      "artistId": 516663045,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/55/39/57/55395707-2e92-db42-f39e-7d4a6210fb0c/4050538772623.png/100x100bb.jpg",
+      "genres": [24, 27, 39],
+      "rank": 1,
+      "url": "https://music.apple.com/us/album/bitch-where/1597855438?i=1597855440"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 99,
+    "fields": {
+      "artistName": "Roddy Ricch",
+      "name": "bibi's interlude",
+      "releaseDate": "2021-12-16",
+      "kind": "songs",
+      "artistId": 1212442072,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/3a/bf/02/3abf028a-7bd2-8d42-c10a-d0ca1d9f85d7/075679762580.jpg/100x100bb.jpg",
+      "genres": [24, 27],
+      "rank": 63,
+      "url": "https://music.apple.com/us/album/bibis-interlude/1598011282?i=1598011709"
+    }
+  },
+  {
+    "model": "api.track",
+    "pk": 100,
+    "fields": {
+      "artistName": "GIV\u0112ON",
+      "name": "For Tonight",
+      "releaseDate": "2021-09-24",
+      "kind": "songs",
+      "artistId": 1070668868,
+      "artistUrl": "https://music.apple.com/us/artist/kodak-black/953921140",
+      "contentAdvisoryRating": "Explicit",
+      "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/3d/21/23/3d2123ef-142c-c5c2-09f0-6a3d1daace5e/886449550807.jpg/100x100bb.jpg",
+      "genres": [27, 39],
+      "rank": 65,
+      "url": "https://music.apple.com/us/album/for-tonight/1585881571?i=1585881786"
+    }
+  }
+]
