@@ -51,6 +51,7 @@ class TrackDetailsView(generics.RetrieveUpdateDestroyAPIView):
     lookup_field = "id"
     queryset = Track.objects.all()
     serializer_class = TrackSerializer
+    permission_classes = [permissions.IsAuthenticated]
 
 
 class TrackCreateView(generics.CreateAPIView):
@@ -61,6 +62,7 @@ class TrackCreateView(generics.CreateAPIView):
 
     queryset = Track.objects.all()
     serializer_class = TrackSerializer
+    permission_classes = [permissions.IsAuthenticated]
 
 
 class MostPopularView(generics.ListAPIView):
