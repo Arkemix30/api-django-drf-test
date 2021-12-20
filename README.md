@@ -111,6 +111,10 @@ $ python manage.py makemigrations && python manage.py migrate
 $ python manage.py loaddata genres_data.json
 $ python manage.py loaddata tracks_data.json
 ```
+* And finally, to run the server:
+```bash
+$ python manage.py runserver
+```
 
 ## Built with 🛠️
 
