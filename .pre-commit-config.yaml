@@ -1,0 +1,44 @@
+# See https://pre-commit.com for more information
+# See https://pre-commit.com/hooks.html for more hooks
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v3.2.0
+    hooks:
+      - id: trailing-whitespace
+      - id: end-of-file-fixer
+      - id: check-yaml
+      - id: check-toml
+      - id: check-docstring-first
+      - id: check-merge-conflict
+  - repo: https://github.com/psf/black
+    rev: 21.5b1
+    hooks:
+      - id: black
+        language_version: python3
+  - repo: https://github.com/pycqa/isort
+    rev: 5.8.0
+    hooks:
+      - id: isort
+  - repo: https://github.com/pre-commit/pygrep-hooks
+    rev: v1.8.0
+    hooks:
+      - id: python-use-type-annotations
+  - repo: https://github.com/commitizen-tools/commitizen
+    rev: v2.17.6
+    hooks:
+      - id: commitizen
+        stages: [ commit-msg ]
+  - repo: https://github.com/PyCQA/bandit
+    rev: 1.7.0
+    hooks:
+      - id: bandit
+        language_version: python3
+        exclude: ^tests/
+        args:
+          - -s
+          - B309,B310,B105,B404,B603
+  - repo: https://github.com/pycqa/flake8
+    rev: 3.9.2
+    hooks:
+      - id: flake8
+        additional_dependencies: [mccabe]
